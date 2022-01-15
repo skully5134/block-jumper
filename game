@@ -1,0 +1,5 @@
+{space} key = jump
+{w} key = move foward
+{a} key = move left
+{s} key = move backward
+{d} key = move right
